@@ -158,6 +158,15 @@ The **Iris dataset** is one of the most well-known datasets in machine learning.
 
 ---
 
+## Decision Tree Visualisation
+
+The diagram below is generated automatically when you run `main.py`.  
+Each node shows the splitting condition, Gini impurity, sample count, and predicted class.
+
+![Decision Tree – Iris Flower Classification](decision_tree.png)
+
+---
+
 ## About the Algorithm
 
 A **Decision Tree** works by asking a series of yes/no questions about the input features. Each question splits the data further until a final class label is predicted. It is intuitive, fast, and easy to visualise — making it a great first classification algorithm to learn.
